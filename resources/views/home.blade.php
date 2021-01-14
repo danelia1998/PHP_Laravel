@@ -181,7 +181,7 @@
     </div>
     <div class="grass">
         <img class="nepali-flag" src="http://clipart.info/images/ccovers/1495748346Nepal-Flag-PNG-Clip-Art.png" alt="">
-        <h1>Best Car Sales<br><strong>By David Danelia</strong></h1>
+        <h1>HomeWork<br><strong>By David Danelia</strong></h1>
     </div>
     <div class="road">
         <div class="lines"></div>
